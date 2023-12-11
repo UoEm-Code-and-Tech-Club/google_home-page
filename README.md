@@ -12,7 +12,7 @@
 
    ```mkdir 'username'```
 
-4. Move the Project to your personal project directory and Start coding
+4. Copy the Project to your personal project directory and Start coding
 
    ```cp images/ username/```
 
